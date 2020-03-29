@@ -1,11 +1,5 @@
-@charset "utf-8";
-
 body {
   background: #efefef;
-}
-
-div {
-  font-family: sans-serif;
 }
 
 #btn {
